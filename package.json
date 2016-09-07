@@ -1,0 +1,18 @@
+{
+  "name": "atom-hyperterm",
+  "main": "./lib/atom-hyperterm",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-hyperterm:toggle"
+  },
+  "repository": "https://github.com/atom/atom-hyperterm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
